@@ -69,5 +69,6 @@ ____
 - npm run serve
   Протестируйте работу фронтенда проекта открыв его в браузере по адресу http://localhost:8080/
 
+  Редактирование студентов доступно по двойному клику
   
 ![image](https://github.com/Aleksei-Aksenov/students/assets/99750013/a1004c40-96cc-4a77-82f2-4ffd01f1f5b6)
